@@ -21,6 +21,10 @@
 
 <div>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kha3leng&show_icons=true&locale=en&layout=compact" alt="kha3leng" /></p>
+
+
 <h3 align="left">I'm on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai-khay-leng-8520b0180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-khay-leng-8520b0180" height="30" width="40" /></a>
