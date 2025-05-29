@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kha3leng&label=Profile%20views&color=0e75b6&style=flat" alt="kha3leng" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [github.com/Kha3Leng](https://github.com/Kha3Leng)
+- 👨‍💻 All of my side projects are available at [github.com/Kha3Leng](https://github.com/Kha3Leng)
 
 - 📬  How to reach me **saikhae8@gmail.com**
 
