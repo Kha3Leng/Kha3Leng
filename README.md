@@ -1,16 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andrew.</h1>
-<h3 align="center">A Software Developer  from Yangon, Myanmar</h3>
+<h1 align="center">Hi 👋, I'm Sai.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kha3leng&label=Profile%20views&color=0e75b6&style=flat" alt="kha3leng" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [github.com/Kha3Leng](https://github.com/Kha3Leng)
 
-- 💬 Ask me about **Python, PHP(Laravel) & React**
-
 - 📬  How to reach me **saikhae8@gmail.com**
-
-- 📃  Know about my experiences [My résumé](https://drive.google.com/file/d/1gcGP2A-JFjiOc-ixKvyJw3B3CKWc3Mwj/view?usp=sharing)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kha3leng&show_icons=true&locale=en" alt="kha3leng" /></p>
 </div> -->
